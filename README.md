@@ -4,6 +4,16 @@
 
 ---
 
+## 🌟 Tentang Project
+Aplikasi ini dirancang secara inklusif. Meskipun fokus utamanya adalah membantu admin mengelola koleksi, aplikasi ini **dapat diakses dan digunakan oleh siapa saja** yang ingin mencoba sistem manajemen sinema yang elegan dan user-friendly.
+
+## 🔑 Akses Demo (Login Admin)
+Untuk mencoba fitur manajemen (CRUD), silakan masuk menggunakan akun admin berikut:
+* **Email:** `adminsatu@itg.ac.id`
+* **Password:** `12345678`
+
+---
+
 👤 Identitas Pengembang
 Nama: Naylla Azhiza Zipa
 NIM: 2307002
@@ -30,6 +40,14 @@ Tujuan: Proyek Ujian Akhir Semester (UAS) - Pemrograman Berbasis Website
 * **UI/UX Mewah:** Desain eksklusif dengan kombinasi warna Maroon dan Cream.
 
 ---
+
+## 🚀 Cara Menjalankan Secara Lokal
+1. Clone repository ini.
+2. Jalankan `composer install`.
+3. Copy `.env.example` menjadi `.env`.
+4. Jalankan `php artisan key:generate`.
+5. Atur database di `.env` dan jalankan `php artisan migrate`.
+6. Jalankan `php artisan serve`.
 
 ## 🚀 Cara Instalasi
 

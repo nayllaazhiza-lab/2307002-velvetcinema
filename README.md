@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 Tentang Project
-Aplikasi ini dirancang secara inklusif. Meskipun fokus utamanya adalah membantu admin mengelola koleksi, aplikasi ini **dapat diakses dan digunakan oleh siapa saja** yang ingin mencoba sistem manajemen sinema yang elegan dan user-friendly.
+Aplikasi ini **dapat diakses dan digunakan oleh siapa saja** yang ingin mencoba sistem manajemen sinema yang elegan dan user-friendly.
 
 ## 🔑 Akses Demo (Login Admin)
 Untuk mencoba fitur manajemen (CRUD), silakan masuk menggunakan akun admin berikut:

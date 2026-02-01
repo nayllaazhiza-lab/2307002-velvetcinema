@@ -1,6 +1,6 @@
-# 🎬 CineTrack - Velvet Cinema Management System
+# 🎬 Velvet Cinema - Velvet Cinema Management System
 
-**CineTrack** adalah aplikasi manajemen daftar film berbasis website yang dirancang untuk memudahkan admin dalam mengelola koleksi film di Velvet Cinema. Project ini dibuat menggunakan framework **Laravel 10** dengan desain antarmuka mewah bertema *Maroon & Cream*.
+**Velvet Cinema** adalah aplikasi manajemen daftar film berbasis website yang dirancang untuk memudahkan admin dalam mengelola koleksi film di Velvet Cinema. Project ini dibuat menggunakan framework **Laravel 10** dengan desain antarmuka mewah bertema *Maroon & Cream*.
 
 ---
 
